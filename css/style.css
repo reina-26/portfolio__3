@@ -525,6 +525,7 @@ body {
 
 .topics-item {
   margin-bottom: 20px;
+  list-style: none;
 }
 .ml-auto {
   margin-left: 0;
