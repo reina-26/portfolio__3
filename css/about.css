@@ -120,6 +120,7 @@ button {
 }
 .nav-item {
   margin-bottom: 30px;
+  list-style: none;
 }
 
 .nav-item:first-of-type {
