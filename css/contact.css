@@ -337,6 +337,7 @@ input,textarea {
 
 .form-item {
   margin-bottom: 40px;
+  list-style: none;
 }
 .inquiry-type-list {
   display: flex;
