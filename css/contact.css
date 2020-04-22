@@ -345,6 +345,7 @@ input,textarea {
 
 .inquiry-type-item {
   margin-right: 50px;
+  list-style: none;
 }
 
 .radio-btn {
