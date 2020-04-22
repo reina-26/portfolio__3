@@ -384,6 +384,7 @@ body.noscroll {
   padding-bottom: 12px;
   border-bottom: 1px solid #ddd;
   margin-bottom:30px;
+  list-style: none;
 }
 
 .topics-date {
